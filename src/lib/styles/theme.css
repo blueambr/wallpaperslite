@@ -1,0 +1,15 @@
+@theme {
+	--font-body: 'Poppins', sans-serif;
+
+	--color-primary: #ffffff;
+	--color-accent: #5d96ff;
+
+	--color-secondary: #222532;
+	--color-secondary-dark: #141724;
+	--color-secondary-mid: #282c3e;
+	--color-secondary-light: #474c65;
+	--color-secondary-warm: #382d59;
+
+	--color-error: #fe6f5e;
+	--color-success: #29ab87;
+}
